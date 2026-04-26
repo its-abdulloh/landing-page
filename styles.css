@@ -34,27 +34,23 @@ body{
 }
 
 .hero-text{
-    width: 350px;
+    width: 500px;
     display: flex;
     flex-direction: column;
 }
 
 .hero-title{
     width: 350px;
-    margin: 20px 0;
     font-size: 48px;
     font-weight: 900;
 }
 
-.hero-subtext{
-    margin: 10px 0;
-}
 
 .hero-img{
-    height: 150px;
-    width: 300px;
+    height: 200px;
+    width: 500px;
     background-color: grey;
-    margin: 50px;
+    
 }
 
 button{
@@ -66,7 +62,6 @@ button{
     width: 100px;
     height: 28px;
     border-radius: 5px;
-    margin: 20px;
 }
 
 
