@@ -112,7 +112,27 @@ button{
 }
 
 /*Quote section*/
+.quote-section{
+    background-color: #e5e7eb;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
 
+.quote-container{
+    width: 800px;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    margin:80px;
+}
+
+.credit{
+    font-size: 24px;
+    font-weight: 600;
+    display: flex;
+    justify-content: flex-end;
+}
 
 
 
